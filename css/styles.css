@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.display-4 {
+    font-size: 2em;
+    font-weight: 800;
+}
+
+.container {
+	position: relative;
+	background-color: #9EBDDB;
+  	border: 1px solid black;
+  	margin: 20px auto;
+    padding: 15px;
+}
+
+.food {
+    text-align: center;
+    font-size: 1.5em;
+    font-weight: 500;
+}
+
+p {
+    text-align: left;
+}
